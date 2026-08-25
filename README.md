@@ -1,10 +1,10 @@
-# ⚡ EcoCharge Smart Grid
+# EcoCharge Smart Grid
 
 O **EcoCharge Smart Grid** é um protótipo acadêmico desenvolvido para o **Challenge GoodWe 2026**, com foco no gerenciamento inteligente da recarga de veículos elétricos.
 
 O sistema busca reduzir problemas relacionados à alta demanda de energia em estações de recarga, utilizando distribuição inteligente de potência, priorização de veículos e monitoramento do consumo.
 
-## 🚗 Funcionalidades
+## Funcionalidades
 
 - Gerenciamento inteligente da potência disponível
 - Priorização de veículos com baixa bateria e necessidade urgente
@@ -19,7 +19,7 @@ O sistema busca reduzir problemas relacionados à alta demanda de energia em est
 - Conexão de novos veículos
 - Painel de telemetria da rede
 
-## 🧠 Como funciona
+## Como funciona
 
 O EcoCharge considera a capacidade disponível da rede elétrica e a geração de energia solar.
 
@@ -27,14 +27,14 @@ Quando vários veículos estão conectados simultaneamente, o sistema analisa fa
 
 Veículos classificados como urgentes recebem prioridade, enquanto o sistema procura manter a demanda dentro dos limites disponíveis.
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Python
 - Streamlit
 - Pandas
 - HTML/CSS integrado ao Streamlit
 
-## ▶️ Como executar
+## Como executar
 
 Primeiro, instale as dependências:
 
@@ -50,11 +50,11 @@ python -m streamlit run app.py
 
 O sistema será aberto automaticamente no navegador.
 
-## ⚠️ Observação
+## Observação
 
 Este projeto é um **protótipo acadêmico**. Os veículos, valores de potência, geração solar, consumo energético e pagamentos apresentados na aplicação são simulados para fins de demonstração.
 
-## 👥 Equipe
+## Equipe
 
 - Lucca Bertolini - RM: 569552
 - Diego de Oliveira Brandão - RM: 569773
