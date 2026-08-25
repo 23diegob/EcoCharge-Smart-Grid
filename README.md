@@ -54,7 +54,7 @@ O sistema será aberto automaticamente no navegador.
 
 Este projeto é um **protótipo acadêmico**. Os veículos, valores de potência, geração solar, consumo energético e pagamentos apresentados na aplicação são simulados para fins de demonstração.
 
-## Equipe
+## Equipe 1
 
 - Lucca Bertolini - RM: 569552
 - Diego de Oliveira Brandão - RM: 569773
@@ -63,4 +63,4 @@ Este projeto é um **protótipo acadêmico**. Os veículos, valores de potência
 - Fabio Pena Vieira - RM: 570441
 
 **Challenge GoodWe 2026**  
-Ciência da Computação — FIAP
+1CCPW
